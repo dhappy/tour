@@ -7,4 +7,4 @@ Transferable labor is pooled and workers choose from available tasks and locatio
 
 * [Housing](https://github.com/dhappy/housing) — Rental of short-term housing.
 * [Costs](https://github.com/OneAcreCafe/costs) — Computing prices for customers from inventory and labor.
-* [Shifts](https://github.com/OneAcreCafe/volunteers) — Work to do while traveling to pay for expenses.
+* [Shifts](https://github.com/OneAcreCafe/labor) — Work to do while traveling to pay for expenses.
